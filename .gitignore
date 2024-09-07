@@ -1,0 +1,9 @@
+ProdAPI/ProdAPI/bin/
+ProdAPI/ProdAPI/obj/
+ProdAPI/ProdAPI.BL/bin/
+ProdAPI/ProdAPI.BL/obj/
+ProdAPI/ProdAPI.DB/obj/
+ProdAPI/ProdAPI.DB/bin/
+ProdAPI/ProdAPI.Repository/obj/
+ProdAPI/ProdAPI.Repository/bin/
+ProdAPI/.vs/
